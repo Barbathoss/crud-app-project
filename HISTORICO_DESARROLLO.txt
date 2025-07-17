@@ -1,0 +1,25 @@
+HISTÓRICO DE DESARROLLO - CRUD APP PROJECT
+==========================================
+
+Fecha de inicio: 2025-07-17
+
+PASO 1: ESTRUCTURA INICIAL DEL PROYECTO
+---------------------------------------
+✅ Creada carpeta principal: crud-app-project
+✅ Creadas subcarpetas:
+   - backend/ (Django API)
+   - frontend/ (React + Vite)
+   - docs/ (Documentación)
+
+ESTRUCTURA DEL PROYECTO:
+crud-app-project/
+├── backend/          # API Django + PostgreSQL
+├── frontend/         # Cliente React con Vite
+├── docs/            # Documentación del proyecto
+└── HISTORICO_DESARROLLO.txt
+
+PRÓXIMOS PASOS:
+- Configurar repositorio en GitHub
+- Configurar entorno Django
+- Configurar entorno React/Vite
+- Configurar PostgreSQL
